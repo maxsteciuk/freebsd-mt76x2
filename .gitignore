@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.ko
+*.kld
+.depend.*
+machine
+x86
+i386
+export_syms
+*.fwo
+*.bin
+opt_*.h
+bus_if.h
+device_if.h
+usb_if.h
+usbdevs.h
+mt76x2fw.c
+CLAUDE.md
+.github/copilot-instructions.md
