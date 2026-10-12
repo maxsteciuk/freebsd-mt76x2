@@ -149,5 +149,7 @@ sys/
 
 ## License
 
+- MediaTek firmware (`sys/contrib/dev/mt76x2`): MediaTek's redistributable
+  firmware license, see `sys/contrib/dev/mt76x2/LICENSE`
 - BSD-2-Clause (driver structure from FreeBSD `if_mtw(4)`)
 - BSD-3-Clause (hardware register definitions from Linux `mt76`)
