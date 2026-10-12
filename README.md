@@ -149,5 +149,8 @@ sys/
 
 ## License
 
+- MediaTek firmware `sys/contrib/dev/mt76x2/mt7662u.bin.uu` and
+  `mt7662u_rom_patch.bin.uu` (unmodified linux-firmware files): redistributable
+  under MediaTek's license in `sys/contrib/dev/mt76x2/LICENSE`
 - BSD-2-Clause (driver structure from FreeBSD `if_mtw(4)`)
 - BSD-3-Clause (hardware register definitions from Linux `mt76`)
